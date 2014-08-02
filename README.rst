@@ -3,7 +3,8 @@ CuTest-TAP
 
 What?
 -----
-A simple TAP producing fork of the cutest C unit test framework.
+A simple TAP producing fork of the cutest C unit test framework (http://cutest.sourceforge.net/)
+
 
 How does it work?
 ----
